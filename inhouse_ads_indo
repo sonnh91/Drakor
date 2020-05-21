@@ -1,7 +1,9 @@
 [
   {
     "package_name": "xyz.indo.drakor",
+    "icon":"https://lh3.googleusercontent.com/HvrhJTAWjTsZw-CY96tO-ODeRuPkgQGITB-Xu8T2ALRq2H5IT8nM8k23SJMpAMlbPw=s180",
     "title": "Drakor TV - Nonton Drama Korea Sub Indonesia",
-    "description": "Drama Korea Sub Indonesia Free"
+    "description": "Drama Korea Sub Indonesia Free",
+    "action":"Install"
   }
 ]
