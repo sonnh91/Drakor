@@ -18,7 +18,7 @@
   "show_banner_in_search": false,
   "show_banner_in_bottom_episodes": false,
   "show_ad_splash":true,
-  "show_ads_go_detail":false,
+  "show_ads_go_detail":true,
   "coin_rewarded": 100,
   "source_anime": "LAYARINDO21",
   "main_ui": "THEMOVIEDB",
