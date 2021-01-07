@@ -1,7 +1,7 @@
 {
-  "current_version": 1,
+  "current_version": 3,
   "force_update": false,
-  "min_version_support": 1,
+  "min_version_support": 3,
   "notify_new_version": true,
   "message_notify_update": "Has new version, update now?",
   "link_update": "",
