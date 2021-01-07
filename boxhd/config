@@ -1,6 +1,6 @@
 {
-  "current_version": 1,
-  "force_update": false,
+  "current_version": 100,
+  "force_update": true,
   "min_version_support": 1,
   "notify_new_version": true,
   "message_notify_update": "Has new version, update now?",
