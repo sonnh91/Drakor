@@ -9,7 +9,7 @@
   "package_name": "com.mothra.watchfree.playhd",
   "show_start_ad_after_number_launch": 3,
   "show_ad_at_start_app": false,
-  "show_ad_at_end_app": true,
+  "show_ad_at_end_app": false,
   "show_ad_when_start_play": false,
   "show_ad_when_end_play": true,
   "show_ad_when_download": true,
