@@ -50,7 +50,7 @@
   "tmdb_api_key": "c4ab71fe26b1145f5681f2996beb4f61",
   "onesignal_app_id": "9f16dd3e-3455-47f1-b8bd-5a1b26da9e90",
   "billing_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAwEWVgEoViax24n3Gd2oqhJZF0k5a4GDXWp3skV4l9j+8oZAjm6GY/FXgA9CVwlRHxclFNfBzOny5JyKQzFKwWxc0NU02LQA5T6nwPIUrerLWmmMzyprZ4kJZ3M3mJpcseuaZZVbvgnrIAxOsf7zpV5z/h+m8DQCvJcgA/ywFEt1T+AXJCQD9YC16dljCYYIsP9YBR2Hog7Mk57uNM9ewbq09Pz1G5xAEKqAvttWMSa/RbLW12sggIgfX74BQ9Nnhhj23Y3O5lBwZSCzpMrRBlARo4E8sWu+hOIdCIQuRjGaEpH44OZEY0RCKnP3ytt9rB47co2Qco32V4AngaYR3fQIDAQAB",
-  "exclude_sources": "MOTV",
+  "exclude_sources": "M4UFREE",
   "sources_search": "THEMOVIEDB",
   "source_search_default": 0,
   "email_feedback": "lilxbenben@gmail.com"
