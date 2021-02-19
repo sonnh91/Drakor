@@ -28,7 +28,7 @@
   "main_ui": "THEMOVIEDB",
   "source_anime_2": "eyJjYXQiOiJUSEVNT1ZJRURCIiwidGFicyI6W3sidGl0bGUiOiJEaXNjb3ZlciIsInNvdXJjZSI6IlRIRU1PVklFREIiLCJ0eXBlIjoidHJlbmRpbmcifSx7InRpdGxlIjoiVHJlbmRpbmciLCJzb3VyY2UiOiJUSEVNT1ZJRURCIiwidHlwZSI6Im1vdmllIn0seyJ0aXRsZSI6IlNlcmllcyIsInNvdXJjZSI6IlRIRU1PVklFREIiLCJ0eXBlIjoic2VyaWVzIn1dfQ==",
   "unity_app_id": "3934999",
-  "ad_splash":"[{\"network\":\"facebook\",\"id\":\"1173880299677468_1173880543010777\"}]",
+  "ad_splash":"[{\"network\":\"appnext\",\"id\":\"49b2266b-9407-4ff9-9849-06f370b5080c\"}]",
   "ad_config_start_app": "[{\"network\":\"facebook\",\"id\":\"1173880299677468_1215406768858154\"},{\"network\":\"unity\",\"id\":\"video\"},{\"network\":\"appnext\",\"id\":\"49b2266b-9407-4ff9-9849-06f370b5080c\"},{\"network\":\"applovin\",\"id\":\"836714645af46f66\"}]",
   "ad_config_end_app": "[{\"network\":\"facebook\",\"id\":\"1173880299677468_1215406768858154\"},{\"network\":\"unity\",\"id\":\"video\"},{\"network\":\"appnext\",\"id\":\"49b2266b-9407-4ff9-9849-06f370b5080c\"}]",
   "ad_config_start_play": "[{\"network\":\"facebook\",\"id\":\"1173880299677468_1215406768858154\"},{\"network\":\"unity\",\"id\":\"video\"},{\"network\":\"appnext\",\"id\":\"49b2266b-9407-4ff9-9849-06f370b5080c\"}]",
