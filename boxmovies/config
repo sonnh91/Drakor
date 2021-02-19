@@ -18,7 +18,7 @@
   "show_native_in_detail": false,
   "show_banner_in_search": true,
   "show_banner_in_bottom_episodes": false,
-  "show_ad_splash":false,
+  "show_ad_splash":true,
   "show_ads_go_detail":true,
   "show_ads_change_tab":false,
   "show_ads_click_category":true,
