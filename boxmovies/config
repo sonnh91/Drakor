@@ -35,7 +35,7 @@
   "ad_config_end_play": "[{\"network\":\"facebook\",\"id\":\"446997869638938_447002172971841\"},{\"network\":\"unity\",\"id\":\"video\"},{\"network\":\"appnext\",\"id\":\"369ddb53-757b-40b6-a6d8-ff862f216034\"},{\"network\":\"applovin\",\"id\":\"836714645af46f66\"}]",
   "ad_config_download": "[{\"network\":\"facebook\",\"id\":\"446997869638938_447002172971841\"},{\"network\":\"unity\",\"id\":\"video\"},{\"network\":\"appnext\",\"id\":\"369ddb53-757b-40b6-a6d8-ff862f216034\"}]",
   "ad_config_go_detail": "[{\"network\":\"facebook\",\"id\":\"446997869638938_447002172971841\"},{\"network\":\"appnext\",\"id\":\"369ddb53-757b-40b6-a6d8-ff862f216034\"}]",
-  "native_ads": "[{\"network\":\"facebook\",\"id\":\"446997869638938_447001379638587\"}]",
+  "native_ads": "[{\"network\":\"facebook\",\"id\":\"446997869638938_447001379638587\"},{\"network\":\"appnext\",\"id\":\"369ddb53-757b-40b6-a6d8-ff862f216034\"}]",
   "banner_config_detail": "[{\"network\":\"facebook\",\"id\":\"446997869638938_458608895144502\"},{\"network\":\"unity\",\"id\":\"banner\"},{\"network\":\"appnext\",\"id\":\"369ddb53-757b-40b6-a6d8-ff862f216034\"},{\"network\":\"applovin\",\"id\":\"22afe881d24d9017\"}]",
   "banner_config_player": "[{\"network\":\"facebook\",\"id\":\"446997869638938_447001672971891\"},{\"network\":\"unity\",\"id\":\"banner\"},{\"network\":\"appnext\",\"id\":\"369ddb53-757b-40b6-a6d8-ff862f216034\"},{\"network\":\"applovin\",\"id\":\"22afe881d24d9017\"}]",
   "banner_search": "[{\"network\":\"facebook\",\"id\":\"446997869638938_458608895144502\"},{\"network\":\"unity\",\"id\":\"banner\"},{\"network\":\"appnext\",\"id\":\"369ddb53-757b-40b6-a6d8-ff862f216034\"},{\"network\":\"applovin\",\"id\":\"22afe881d24d9017\"}]",
