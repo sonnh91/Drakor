@@ -5,6 +5,7 @@
   "notify_new_version": true,
   "message_notify_update": "Has new version, update now?",
   "link_update": "",
+  "mediation_bidding": "",
   "update_from_gp": true,
   "package_name": "com.mothra.playhd.watchfree",
   "show_start_ad_after_number_launch": 3,
