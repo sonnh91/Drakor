@@ -53,5 +53,11 @@
   "exclude_sources": "",
   "sources_search": "THEMOVIEDB",
   "source_search_default": 0,
-  "email_feedback": "lilxbenben@gmail.com"
+  "email_feedback": "lilxbenben@gmail.com",
+  "sp_ct": "VN,CA,USA,GB,NZ,AU,KR,US",
+  "sp_l": "vi,in,id,hi,en",
+  "sp_t": "7,8,9,5.5",
+  "swatchseries": "https://swatchseries.ru",
+  "pubfilm": "https://www.pubfilm.nl",
+  "losmovies":"https://losmovies.xyz"
 }
