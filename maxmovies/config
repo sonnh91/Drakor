@@ -28,7 +28,7 @@
   "main_ui": "THEMOVIEDB",
   "source_anime_2": "eyJjYXQiOiJUSEVNT1ZJRURCIiwidGFicyI6W3sidGl0bGUiOiJEaXNjb3ZlciIsInNvdXJjZSI6IlRIRU1PVklFREIiLCJ0eXBlIjoidHJlbmRpbmcifSx7InRpdGxlIjoiVHJlbmRpbmciLCJzb3VyY2UiOiJUSEVNT1ZJRURCIiwidHlwZSI6Im1vdmllIn0seyJ0aXRsZSI6IlNlcmllcyIsInNvdXJjZSI6IlRIRU1PVklFREIiLCJ0eXBlIjoic2VyaWVzIn1dfQ==",
   "unity_app_id": "4213019",
-  "ad_splash":"[{\"network\":\"applovin\",\"id\":\"836714645af46f66\"},{\"network\":\"appnext\",\"id\":\"b8feb0ad-77f9-4f5b-bc4a-01b5a0b1a3df\"}]",
+  "ad_splash":"[{\"network\":\"applovin\",\"id\":\"836714645af46f66\"},{\"network\":\"ironsource\",\"id\":\"DefaultInterstitial\"}]",
   "ad_config_start_app": "[{\"network\":\"applovin\",\"id\":\"836714645af46f66\"},{\"network\":\"unity\",\"id\":\"Interstitial_Android\"},{\"network\":\"appnext\",\"id\":\"b8feb0ad-77f9-4f5b-bc4a-01b5a0b1a3df\"}]",
   "ad_config_end_app": "[{\"network\":\"applovin\",\"id\":\"836714645af46f66\"},{\"network\":\"unity\",\"id\":\"Interstitial_Android\"},{\"network\":\"appnext\",\"id\":\"b8feb0ad-77f9-4f5b-bc4a-01b5a0b1a3df\"}]",
   "ad_config_start_play": "[{\"network\":\"applovin\",\"id\":\"836714645af46f66\"},{\"network\":\"unity\",\"id\":\"Interstitial_Android\"},{\"network\":\"appnext\",\"id\":\"b8feb0ad-77f9-4f5b-bc4a-01b5a0b1a3df\"}]",
