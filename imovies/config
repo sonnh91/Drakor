@@ -37,7 +37,7 @@
   "ad_config_end_play": "[{\"network\":\"ironsource\",\"id\":\"DefaultInterstitial\"}]",
   "ad_config_download": "[{\"network\":\"ironsource\",\"id\":\"DefaultInterstitial\"}]",
   "ad_config_go_detail": "[{\"network\":\"ironsource\",\"id\":\"DefaultInterstitial\"}]",
-  "native_ads": "[{\"network\":\"facebook\",\"id\":\"310682536715468_318232342627154\"}]",
+  "native_ads": "[{\"network\":\"facebook\",\"id\":\"977729722961342_984375325630115\"}]",
   "banner_config_detail": "[{\"network\":\"ironsource\",\"id\":\"DefaultBanner\"}]",
   "banner_config_player": "[{\"network\":\"ironsource\",\"id\":\"DefaultBanner\"}]",
   "banner_search": "[{\"network\":\"ironsource\",\"id\":\"DefaultBanner\"}]",
