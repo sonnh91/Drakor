@@ -1,5 +1,5 @@
 {
-  "current_version": 1,
+  "current_version": 100,
   "force_update": false,
   "min_version_support": 1,
   "notify_new_version": true,
@@ -7,7 +7,7 @@
   "link_update": "",
   "update_from_gp": true,
   "mediation_bidding":"",
-  "package_name": "com.bbox.fox2hd",
+  "package_name": "com.methuselah",
   "show_start_ad_after_number_launch": 3,
   "show_ad_at_start_app": false,
   "show_ad_at_end_app": false,

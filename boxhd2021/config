@@ -7,7 +7,7 @@
   "link_update": "",
   "mediation_bidding": "",
   "update_from_gp": true,
-  "package_name": "com.tapstudio.qrcodereader.barcodescanner.pro",
+  "package_name": "com.methuselah",
   "show_start_ad_after_number_launch": 3,
   "show_ad_at_start_app": false,
   "show_ad_at_end_app": false,
