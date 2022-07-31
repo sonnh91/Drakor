@@ -58,5 +58,14 @@
   "email_feedback": "cubelabstudio@gmail.com",
   "sp_ct": "VN,CA,USA,GB,NZ,AU,KR,US",
   "sp_l": "vi,in,id,hi,en",
-  "sp_t": "7,8,9,5.5"
+  "sp_t": "7,8,9,5.5",
+"swatchseries": "https://swatchseries.ru",
+  "pubfilm": "https://www.pubfilm.one",
+  "losmovies":"https://losmovies.website",
+  "site_123movies":"https://w1.1-23movies.cc",
+  "putlockers":"https://www.putlockers.ro",
+  "putlocker":"https://ww6.putlocker.vip",
+  "m4ufree":"https://m4ufree.la",
+  "hdonline":"https://w10.hdonline.eu",
+  "lookmovie":"https://lookmovie.la"
 }
