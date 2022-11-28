@@ -37,7 +37,7 @@
   "ad_config_end_play": "[{\"network\":\"facebook\",\"id\":\"690080979210203_690082242543410\"},{\"network\":\"ironsource\",\"id\":\"DefaultInterstitial\"}]",
   "ad_config_download": "[{\"network\":\"facebook\",\"id\":\"690080979210203_690082242543410\"},{\"network\":\"ironsource\",\"id\":\"DefaultInterstitial\"}]",
   "ad_config_go_detail": "[{\"network\":\"facebook\",\"id\":\"690080979210203_690082242543410\"},{\"network\":\"ironsource\",\"id\":\"DefaultInterstitial\"}]",
-  "native_ads": "[{\"network\":\"facebook\",\"id\":\"223022269894043_223025976560339\"}]",
+  "native_ads": "[{\"network\":\"facebook\",\"id\":\"690080979210203_693108575574110\"}]",
   "banner_config_detail": "[{\"network\":\"facebook\",\"id\":\"690080979210203_690082322543402\"},{\"network\":\"ironsource\",\"id\":\"DefaultBanner\"}]",
   "banner_config_player": "[{\"network\":\"facebook\",\"id\":\"690080979210203_690082322543402\"},{\"network\":\"ironsource\",\"id\":\"DefaultBanner\"}]",
   "banner_search": "[{\"network\":\"facebook\",\"id\":\"690080979210203_690082322543402\"},{\"network\":\"ironsource\",\"id\":\"DefaultBanner\"}]",
