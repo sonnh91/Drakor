@@ -72,5 +72,6 @@
     "hdonline":"https://w10.hdonline.eu",
     "lookmovie":"https://recontates.monster",
     "watchserieshd":"https://watchserieshd.co",
-    "seehd":"https://seehd.today"
+    "seehd":"https://seehd.today",
+    "sources_init": "SUPERNOVA,SOAP2DAY"
 }
