@@ -29,7 +29,7 @@
   "source_anime": "LAYARINDO21",
   "main_ui": "THEMOVIEDB",
   "source_anime_2": "eyJjYXQiOiJUSEVNT1ZJRURCIiwiZGVmYXVsdF90YWIiOjIsInRhYnMiOlt7InRpdGxlIjoiVHJlbmRpbmciLCJzb3VyY2UiOiJBRkRBSCIsInR5cGUiOiJ0cmVuZGluZyJ9LHsidGl0bGUiOiJQb3B1bGFyIiwic291cmNlIjoiQUZEQUgiLCJ0eXBlIjoibW92aWUifSx7InRpdGxlIjoiU2VyaWVzIiwic291cmNlIjoiVEhFTU9WSUVEQiIsInR5cGUiOiJzZXJpZXMifV19",
-  "unity_app_id": "3934999",
+  "unity_app_id": "5161495",
   "ironsource_id": "17a29965d",
   "ad_splash": "[{\"network\":\"ironsource\",\"id\":\"DefaultInterstitial\"}]",
   "ad_config_start_app": "[{\"network\":\"ironsource\",\"id\":\"DefaultInterstitial\"}]",
