@@ -52,7 +52,7 @@
   "link_config": [],
   "tmdb_api_key": "c4ab71fe26b1145f5681f2996beb4f61",
   "onesignal_app_id": "ea65281c-3d44-4569-8cc4-9a7c8db90fc7",
-  "billing_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAjG8FAhnmyZOjLCm+i61fWCNvdr1+BCjZFcYmW4dIWxKyfLnsDEztUJngkvRELWjo5HzlERNqI8GNqNGesylLmn884RCGznzV6NgDb4ezHwqZ1CNu195AGeN9qHHQKVZCOZ//OBY99OWFsTJlFn9dPEpn5xEOqRcMkdX05KqkAuj5yEjxUBNZOkVAXnbn7XHM/Bw3y9rwjkDeOlVP/NatVM0xTWri2OVI3NTsOhnJrFQbQxAdac63cdDnbNeNR/kVo/rIRnSs/5CapJoevyXq6jT3zg0G2WnLJiQOam0N0bu9HPPk+yE007w0fC87h067IEgOwkXG291HJ6P2YxbIqQIDAQAB",
+  "billing_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1jHYA/jZfXHqMaCMLPb5haEg5rdiZAdfxpkMU72p08CDyRF+y9borHG5X6v0A5nHfyNzIGwnfTUWi35pIWdoe5BAF07t8L2tEwJ5RUw32UIOZzNITlvYl23wk49M8gQKhU+zV84ESj8KsHgjjsPjy3GgnByfMGBJmwcfdGRx0AN7XvQOITETnsM7w523nDUE/MInwhPDrmcuM/SI92stvSncVg4agqF/YGj9OJxy0LMtHUvZEk/Pqm52MM7i+c/LXnog7WRcfirWHBuHTD+y8yO5Q6IxhJqo9qqutGd6WVr6/bLGmlPztIxI53OGFTteZhAhTCj6xwVxo+u/5hKMSQIDAQAB",
   "exclude_sources": "",
   "sources_search": "THEMOVIEDB",
   "source_search_default": 0,
