@@ -64,12 +64,15 @@
   "gogoanime": "https://www1.gogoanime.bid",
   "animedao": "https://animedao.to",
   "animefrenzy_cf": "YopgjtY0CA0q6a7NX1Oe",
-  "kickassanime": "https://www2.kickassanime.ro",
+  "kickassanime": "https://kaas.am",
   "darkanime": "https://nightanime.stream",
-  "thewatchcartoononline": "https://www.wcofun.net",
+  "thewatchcartoononline": "https://www.wcofun.com",
   "gogoanime2": "https://gogoanime.mom",
   "SITE_123ANIMES": "https://w3.123animes.mobi",
-  "KISSANIMEFREE": "https://kissanimefree.cc",
+  "KISSANIMEFREE":"https://kissanimefree.cc",
   "ANIMEFRENZY": "https://animeheaven.app",
-  "wcostream": "https://www.wcostream.net"
+  "wcostream":"https://www.wcostream.net",
+  "allanime_config": "eyJzIjoiMDYzMjdiYzEwZGQ2ODJlMWVlN2UwN2I2ZGI5YzE2ZTlhZDJmZDU2YzFiNzY5ZTQ3NTEzMTI4Y2Q1YzlmYzc3YSIsImQiOiI5ZDc0MzljOTBmMjAzZTUzNGNhNzc4YzQ5MDFmOWFhMmQzYWQ0MmMwNjI0M2FiMmM1ZTZiNzk2MTJhZjMyMDI4IiwicCI6IjVmMWE2NGI3Mzc5M2NjMjIzNGEzODljZjNhOGY5M2FkODJkZTcwNDMwMTdkZDU1MWYzOGY2NWI4OWRhYTY1ZTAifQ==",
+  "allanime": "https://allanime.to",
+  "allanime_api": "https://api.allanime.to"
 }
