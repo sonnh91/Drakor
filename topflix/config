@@ -50,7 +50,7 @@
   "banner_config_detail": "[{\"network\":\"ironsource\",\"id\":\"DefaultBanner\"}]",
   "banner_config_player": "[{\"network\":\"ironsource\",\"id\":\"DefaultBanner\"}]",
   "banner_search": "[{\"network\":\"ironsource\",\"id\":\"DefaultBanner\"}]",
-"offer_remove_ads": "[{\"network\":\"ironsource\",\"id\":\"DefaultRewardedVideo\"}]",
+  "offer_remove_ads": "[{\"network\":\"ironsource\",\"id\":\"DefaultRewardedVideo\"}]",
   "enable_offer_rewarded_remove_ads": true,
   "enable_pay": false,
   "enable_acc": false,
@@ -88,6 +88,5 @@
   "yesmovies": "https://ww.yesmovies.ag",
   "series9": "https://series9.sh",
   "seehd": "https://seehd.today",
-  "watchserieshd": "https://watchserieshd.live",
   "sources_init": "SUPERNOVA,SOAP2DAY"
 }
