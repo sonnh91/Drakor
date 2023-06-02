@@ -39,9 +39,9 @@
   "adfly_detail_screen": false,
   "adfly_home_screen": true,
   "adfly_sp_ct": "PH,MY,VN",
-"enable_return_ad":true,
-"return_time": 3600000,
-"ad_return": "[{\"network\":\"ironsource\",\"id\":\"ReturnApp\"}]",
+  "enable_return_ad": true,
+  "return_time": 3600000,
+  "ad_return": "[{\"network\":\"ironsource\",\"id\":\"ReturnApp\"}]",
   "ad_splash": "[{\"network\":\"ironsource\",\"id\":\"DefaultInterstitial\"}]",
   "ad_config_start_app": "[{\"network\":\"ironsource\",\"id\":\"DefaultInterstitial\"}]",
   "ad_config_end_app": "[{\"network\":\"ironsource\",\"id\":\"DefaultInterstitial\"}]",
@@ -70,7 +70,7 @@
   "tmdb_api_key": "c4ab71fe26b1145f5681f2996beb4f61",
   "onesignal_app_id": "9f16dd3e-3455-47f1-b8bd-5a1b26da9e90",
   "billing_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAxWB0TJys/Tu0h/sF8TPkYdo9GJD5/dsm3eeIfT7U5sWKtzH7lx9C+/bLc6rCIgymqKugsICV7t0E4DrEe8hoLP+fyaTZkbSbpeJoyCbBsUIoDnQ8ABdZY843mSywip09x2GwQGUge8kg2wQILKGEUmVTT+Mid9V6x6ehJ3u4pqz6puOoTLN5VXN+YGurZCbtAZf6EytYh2FbegIgnc57KPoI6VmtvYZq7BfyBSkMgfzqkvNfIhK4kz29vmm3SCxRwrpaxWj+uZxjfkrXjhfnnQU6wngwOS1kFuKVQljvND4Wxo0fdl+TGMY/7Pb1kdzHGOTQWMlrCABd4a5vNdHVvwIDAQAB",
-  "exclude_sources": "LOOKMOVIE,CMOVIES",
+  "exclude_sources": "LOOKMOVIE,CMOVIES,SUPERNOVA,SOAP2DAY,SITE_123MOVIESFREE",
   "sources_search": "THEMOVIEDB",
   "source_search_default": 0,
   "sp_ct": "VN,PH,PK,ZA,NG,EG,AE,BD,OM,KE,SA,ET,SE,NA,NO,JO,MO,MZ,OM,QA,SD,TZ,ZM,ZW,BW,CM",
@@ -93,5 +93,5 @@
   "series9": "https://series9.sh",
   "seehd": "https://seehd.today",
   "solarmovie": "https://www2.solarmovie.cr",
-  "sources_init": "SUPERNOVA,SOAP2DAY,SITE_123MOVIESFREE"
+  "sources_init": ""
 }
