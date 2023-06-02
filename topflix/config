@@ -39,6 +39,7 @@
   "adfly_detail_screen": false,
   "adfly_home_screen": true,
   "adfly_sp_ct": "PH,MY,VN",
+"ad_return": "[{\"network\":\"ironsource\",\"id\":\"ReturnApp\"}]",
   "ad_splash": "[{\"network\":\"ironsource\",\"id\":\"DefaultInterstitial\"}]",
   "ad_config_start_app": "[{\"network\":\"ironsource\",\"id\":\"DefaultInterstitial\"}]",
   "ad_config_end_app": "[{\"network\":\"ironsource\",\"id\":\"DefaultInterstitial\"}]",

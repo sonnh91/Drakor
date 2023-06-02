@@ -2,86 +2,103 @@
   {
     "id": "138335",
     "name": "Scifi",
-    "poster": "https://image.tmdb.org/t/p/w500_and_h282_face/rAiYTfKGqDCRIIqo664sY9XZIvQ.jpg"
+    "poster": "https://image.tmdb.org/t/p/w500_and_h282_face/rAiYTfKGqDCRIIqo664sY9XZIvQ.jpg",
+    "api": "list"
   },
   {
     "id": "138363",
     "name": "Natural disaster",
-    "poster": "https://image.tmdb.org/t/p/w500_and_h282_face/oqBTd53lYKJ63vbQpAxjDS6Pxvt.jpg"
+    "poster": "https://image.tmdb.org/t/p/w500_and_h282_face/oqBTd53lYKJ63vbQpAxjDS6Pxvt.jpg",
+    "api": "list"
   },
   {
     "id": "136552",
     "name": "30 Most Popular Korean Movies",
-    "poster": "https://image.tmdb.org/t/p/w500_and_h282_face/ApiBzeaa95TNYliSbQ8pJv4Fje7.jpg"
+    "poster": "https://image.tmdb.org/t/p/w500_and_h282_face/ApiBzeaa95TNYliSbQ8pJv4Fje7.jpg",
+    "api": "list"
   },
   {
     "id": "136555",
     "name": "47 Best Movies 2019",
-    "poster": "https://image.tmdb.org/t/p/w500_and_h282_face/AcfbMzfOMX17fAR8syLcUgwiXMh.jpg"
+    "poster": "https://image.tmdb.org/t/p/w500_and_h282_face/AcfbMzfOMX17fAR8syLcUgwiXMh.jpg",
+    "api": "list"
   },
   {
     "id": "136337",
     "name": "Marvel collection",
-    "poster": "https://image.tmdb.org/t/p/w500_and_h282_face/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg"
+    "poster": "https://image.tmdb.org/t/p/w500_and_h282_face/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg",
+    "api": "list"
   },
   {
     "id": "126531",
     "name": "Netflix Movies",
-    "poster": "https://www.whats-on-netflix.com/wp-content/uploads/2020/03/top-20-sci-fi-movies-and-tv-series-on-netflix.png"
+    "poster": "https://www.whats-on-netflix.com/wp-content/uploads/2020/03/top-20-sci-fi-movies-and-tv-series-on-netflix.png",
+    "api": "list"
   },
   {
     "id": "136341",
     "name": "DC Movies",
-    "poster": "https://image.tmdb.org/t/p/w500_and_h282_face/doiUtOHzcxXFl0GVQ2n8Ay6Pirx.jpg"
+    "poster": "https://image.tmdb.org/t/p/w500_and_h282_face/doiUtOHzcxXFl0GVQ2n8Ay6Pirx.jpg",
+    "api": "list"
   },
   {
     "id": "136404",
     "name": "Oscar movies",
-    "poster": "https://image.tmdb.org/t/p/w500_and_h282_face/2lBOQK06tltt8SQaswgb8d657Mv.jpg"
+    "poster": "https://image.tmdb.org/t/p/w500_and_h282_face/2lBOQK06tltt8SQaswgb8d657Mv.jpg",
+    "api": "list"
   },
   {
     "id": "136400",
     "name": " Happy to be single",
-    "poster": "https://image.tmdb.org/t/p/w500_and_h282_face/4FLZTeVWrp14vm5wMlSJzEghDrd.jpg"
+    "poster": "https://image.tmdb.org/t/p/w500_and_h282_face/4FLZTeVWrp14vm5wMlSJzEghDrd.jpg",
+    "api": "list"
   },
   {
     "id": "136401",
     "name": "Best travel movies",
-    "poster": "https://image.tmdb.org/t/p/w500_and_h282_face/19bnF7vBewACfWxiqkmCEEMEcYR.jpg"
+    "poster": "https://image.tmdb.org/t/p/w500_and_h282_face/19bnF7vBewACfWxiqkmCEEMEcYR.jpg",
+    "api": "list"
   },
   {
     "id": "136436",
     "name": "Movies love stories with happy endings",
-    "poster": "https://image.tmdb.org/t/p/w500_and_h282_face/yAn9RUBTsHPvI5QRfTxm0J0KaLv.jpg"
+    "poster": "https://image.tmdb.org/t/p/w500_and_h282_face/yAn9RUBTsHPvI5QRfTxm0J0KaLv.jpg",
+    "api": "list"
   },
   {
     "id": "136402",
     "name": "Movies based on novel",
-    "poster": "https://image.tmdb.org/t/p/w500_and_h282_face/vRQnzOn4HjIMX4LBq9nHhFXbsSu.jpg"
+    "poster": "https://image.tmdb.org/t/p/w500_and_h282_face/vRQnzOn4HjIMX4LBq9nHhFXbsSu.jpg",
+    "api": "list"
   },
   {
     "id": "136403",
     "name": "Stephen King Movies",
-    "poster": "https://image.tmdb.org/t/p/w500_and_h282_face/k54tQoywgT4biKYyCXCkEM0dX00.jpg"
+    "poster": "https://image.tmdb.org/t/p/w500_and_h282_face/k54tQoywgT4biKYyCXCkEM0dX00.jpg",
+    "api": "list"
   },
   {
     "id": "136340",
     "name": "Romantic",
-    "poster": "https://image.tmdb.org/t/p/w500_and_h282_face/jJ28EMI5dokQ6CMGQQXMdH7jiG9.jpg"
+    "poster": "https://image.tmdb.org/t/p/w500_and_h282_face/jJ28EMI5dokQ6CMGQQXMdH7jiG9.jpg",
+    "api": "list"
   },
   {
     "id": "136339",
-    "name":"Keanu Reeves",
-    "poster": "https://image.tmdb.org/t/p/w500_and_h282_face/sHPfBVFq7dlnXCz1zFdbEdwcBDJ.jpg"
+    "name": "Keanu Reeves",
+    "poster": "https://image.tmdb.org/t/p/w500_and_h282_face/sHPfBVFq7dlnXCz1zFdbEdwcBDJ.jpg",
+    "api": "list"
   },
   {
     "id": "136342",
     "name": "Best horror movies",
-    "poster": "https://image.tmdb.org/t/p/w500_and_h282_face/4DUoPZOHdPuROP4nyEIsPaMIiQl.jpg"
+    "poster": "https://image.tmdb.org/t/p/w500_and_h282_face/4DUoPZOHdPuROP4nyEIsPaMIiQl.jpg",
+    "api": "list"
   },
   {
     "id": "136344",
     "name": "Top action movies",
-    "poster":"https://image.tmdb.org/t/p/w500_and_h282_face/8i6ZDk97Vyh0jHohMG4vFeFuKJh.jpg"
+    "poster": "https://image.tmdb.org/t/p/w500_and_h282_face/8i6ZDk97Vyh0jHohMG4vFeFuKJh.jpg",
+    "api": "list"
   }
 ]
