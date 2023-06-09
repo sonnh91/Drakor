@@ -1,4 +1,10 @@
 [
+{
+    "id": "8255932",
+    "name": "Best Classic Films Ever Made",
+    "poster": "https://www.themoviedb.org/t/p/w710_and_h400_bestv2/tmU7GeKVybMWFButWEGl2M4GeiP.jpg",
+    "api": "list"
+  },
   {
     "id": "8255900",
     "name": "Best Movies Ever Made About Mental Health",
