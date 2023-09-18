@@ -5,7 +5,7 @@
   "notify_new_version": true,
   "check_release_version": true,
   "message_notify_update": "Necesita actualizar a la última versión para reproducir todas las películas",
-  "package_name": "xyz.sa.maxplay",
+  "package_name": "io.vungkk.pelistream",
   "mediation_bidding": "max",
   "feedback_email": "publishglobalstudio@gmail.com",
   "link_update": "",
