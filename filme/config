@@ -76,8 +76,8 @@
   "cineb": "https://cineb.rs",
   "bflix": "https://bflix.sx",
   "cmovies": "https://ww5.cmovies.co",
-  "guardaserie": "https://guardaserie.recipes",
-  "SITE_123MOVIESFREE": "https://ww2.123moviesfree.net",
+  "guardaserie": "https://guardaserie.events",
+  "site_123moviesfree": "https://ww2.123moviesfree.net",
   "putlockers": "https://www4.putlockers.do",
   "putlocker": "https://ww7.putlocker.vip",
   "m4ufree": "https://ww1.m4ufree.tv",
@@ -86,6 +86,6 @@
   "yesmovies": "https://ww.yesmovies.ag",
   "series9": "https://series9.sh",
   "seehd": "https://seehd.today",
-  "solarmovie": "https://www2.solarmovie.cr",
+  "repelis24": "https://player.repelis24.yt/embed/tmdb/{id}&copl=",
   "sources_init": ""
 }
