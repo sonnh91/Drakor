@@ -56,7 +56,7 @@
   "tmdb_api_key": "c4ab71fe26b1145f5681f2996beb4f61",
   "onesignal_app_id": "ea65281c-3d44-4569-8cc4-9a7c8db90fc7",
   "billing_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1jHYA/jZfXHqMaCMLPb5haEg5rdiZAdfxpkMU72p08CDyRF+y9borHG5X6v0A5nHfyNzIGwnfTUWi35pIWdoe5BAF07t8L2tEwJ5RUw32UIOZzNITlvYl23wk49M8gQKhU+zV84ESj8KsHgjjsPjy3GgnByfMGBJmwcfdGRx0AN7XvQOITETnsM7w523nDUE/MInwhPDrmcuM/SI92stvSncVg4agqF/YGj9OJxy0LMtHUvZEk/Pqm52MM7i+c/LXnog7WRcfirWHBuHTD+y8yO5Q6IxhJqo9qqutGd6WVr6/bLGmlPztIxI53OGFTteZhAhTCj6xwVxo+u/5hKMSQIDAQAB",
-  "exclude_sources": "SUPERNOVA,SOAP2DAY,SITE_123MOVIESFREE",
+  "exclude_sources": "SUPERNOVA,SOAP2DAY,SITE_123MOVIESFREE,CINEB",
   "sources_search": "THEMOVIEDB",
   "source_search_default": 0,
   "email_feedback": "movieclips.app@gmail.com",
