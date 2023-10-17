@@ -84,5 +84,5 @@
   "series9": "https://series9.sh",
   "seehd": "https://seehd.today",
   "repelis24": "https://player.repelis24.yt/embed/tmdb/{id}&copl=",
-  "sources_init": ""
+  "sources_init": "FMOVIES"
 }
