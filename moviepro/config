@@ -7,7 +7,7 @@
   "link_update": "",
   "update_from_gp": true,
   "check_version": true,
-  "package_name": "tapstudio.alldownloader.videodownloader",
+  "package_name": "com.tao.resum.lis",
   "mediation_bidding":"max",
   "show_start_ad_after_number_launch": 3,
   "show_ad_at_start_app": false,
