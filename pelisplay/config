@@ -29,6 +29,7 @@
   "unity_app_id": "5411177",
   "pangle_id": "8189905",
   "ironsource_id": "1b41969cd",
+"applovin_key": "pfQ9Mii5S5mDwCSzXqcqqs4bccbm51i9Ig71Alol8f4c71yd6DSAqJ_1eBXsFIGaA5Wav0yCTLIyvx0RUQOgnd",
   "ad_splash": "[{\"network\":\"ironsource\",\"id\":\"DefaultInterstitial\"},{\"network\":\"max\",\"id\":\"a4865b0a62a686bb\"}]",
   "ad_config_start_app": "[{\"network\":\"ironsource\",\"id\":\"DefaultInterstitial\"},{\"network\":\"max\",\"id\":\"a4865b0a62a686bb\"}]",
   "ad_config_end_app": "[{\"network\":\"ironsource\",\"id\":\"DefaultInterstitial\"},{\"network\":\"max\",\"id\":\"a4865b0a62a686bb\"}]",
