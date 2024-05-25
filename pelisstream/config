@@ -43,7 +43,7 @@
   "banner_search": "[{\"network\":\"ironsource\",\"id\":\"DefaultBanner\"}]",
   "offer_remove_ads": "[{\"network\":\"ironsource\",\"id\":\"DefaultRewardedVideo\"}]",
   "enable_offer_rewarded_remove_ads": true,
-  "enable_pay": true,
+  "enable_pay": false,
   "enable_acc": false,
   "package_vip": "[{\"id\":\"sub_1m\",\"title\":\"1 Month\",\"price\":\"10.000 đ\",\"type\":\"sub\",\"icon\":\"https://raw.githubusercontent.com/sonnh91/Drakor/master/sub_1m.png\"},{\"id\":\"sub_3m\",\"title\":\"3 Months\",\"price\":\"40.000 đ\",\"discount\":\"33%\",\"type\":\"sub\",\"icon\":\"https://raw.githubusercontent.com/sonnh91/Drakor/master/sub_6m.png\"},{\"id\":\"sub_6m\",\"title\":\"6 Months\",\"price\":\"70.000 đ\",\"discount\":\"45%\",\"type\":\"sub\",\"icon\":\"https://raw.githubusercontent.com/sonnh91/Drakor/master/sub_1y.png\"},{\"id\":\"sub_12m\",\"title\":\"12 Months\",\"price\":\"210 PHP\",\"discount\":\"50%\",\"type\":\"sub\",\"alert\":\"Best choice\",\"icon\":\"https://raw.githubusercontent.com/sonnh91/Drakor/master/lifetime.png\"},{\"id\":\"lifetime\",\"title\":\"Lifetime\",\"price\":\"210 PHP\",\"discount\":\"99%\",\"type\":\"lifetime\",\"alert\":\"Best choice\",\"icon\":\"https://raw.githubusercontent.com/sonnh91/Drakor/master/lifetime.png\"}]",
   "all_pack_vip": "[{\"id\":\"sub_1m\",\"type\":\"sub\"},{\"id\":\"sub_3m\",\"type\":\"sub\"},{\"id\":\"sub_6m\",\"type\":\"sub\"},{\"id\":\"sub_12m\",\"type\":\"sub\"},{\"id\":\"lifetime_discount\",\"type\":\"product\"},{\"id\":\"lifetime\",\"type\":\"product\"}]",
