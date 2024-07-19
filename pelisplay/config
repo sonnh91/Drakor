@@ -54,9 +54,9 @@
   "link_config": [],
   "tmdb_api_key": "c4ab71fe26b1145f5681f2996beb4f61",
   "billing_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAmdPBWLh8NXzr/MDcR+wglvaWzt7t1gMxZOvjX4ljikejFHm4XJAl3y7yYCXZVO3iS7IzJpEvl63u7HG4jTkpXzja4kiQYiLIHaxvUCwPkJhmCfeBesvGFvFz99A97ndspj4P9FuGs3TryKmY5q/CXLkauKWuhXSHUFZCSX112zGRVpuLO7bDHXlV7mwkz+Bp6ByBUY/Kv/BAgHanG76jf+p3lUiP/rh1woMJ42H7ILFZSHCMVywVmldt467lS4r29HWAP45ya7ZbFl39Kpi4KNelWhZYWFhYwbdNov0uy8CEzW8QI33GhWDL6m1hJClTSl10drTuBg2RSU3cwaMIWwIDAQAB",
-  "sources_search": "THEMOVIEDB,ENTREPELICULASYSERIES",
+  "sources_search": "THEMOVIEDB",
   "source_search_default": 0,
-  "exclude_sources": "PELISPLAY,PELISHOUSE",
+  "exclude_sources": "PELISPLAY,PELISHOUSE,FANPELIS,REPELIS24",
   "sp_ct": "VN,MX,CO,ES,AR,PE,VE,CL,EC,GT,CU,BO,DO,HN,PY,SV,NI,CR,PA,UY,GQ",
   "sp_l": "vi,en,jp,fil,ms,hi,es",
   "sp_t": "4,5,6,7,8,9,10,11,12,13"
