@@ -25,7 +25,7 @@
   "show_ads_change_tab": true,
   "show_ads_click_category": false,
   "time_limit_action_ads": 180000,
-  "source_anime": "THEMOVIEDB",
+  "source_anime": "TRAKT",
   "unity_app_id": "5361577",
   "pangle_id": "8152288",
   "ironsource_id": "153cd9c19",
