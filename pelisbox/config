@@ -53,7 +53,6 @@
   "push_after_time_deactive": 259200000,
   "link_config": [],
   "tmdb_api_key": "c4ab71fe26b1145f5681f2996beb4f61",
-"trakt_api_key" : "7f3860ad34b8e6f97f7b9104ed33108b42d717e1342c64c11894a5252a47617f",
   "billing_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAlvXWtCY+kf/exCiDSu2MtC9sr4e/sDGm1Aoo96mzdXky9dzjv3zhKY8ABxYbRSF9AJWiJ7/m4NYgf+cCEujM2ukqW2eg+QUqXAQ9XjeRQjm7wx93q8ooc6pSS66pfMdk8cC3f0BkReTTiis+DxYLp0FpOrBX+Jx/3wHLX4TLDAR+oCIxRpNZu2CpBQ50D7kMMHDcIuhn0GmHBhYJeI5h1RoOtLb1PBvSdBVxUcBzTEvkoNKRjfaFKOes17ZsGqJ+W4kH/cJVaVz4P7Y7vp8Vf6REgectPGLNY1IuHmY9QBA5VZj51efzqQP4qoGazEmI9DQwB3YxcWo1TQuCoWM6xQIDAQAB",
   "sources_search": "THEMOVIEDB",
   "source_search_default": 0,
