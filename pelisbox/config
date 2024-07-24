@@ -30,7 +30,7 @@
   "pangle_id": "8152288",
   "ironsource_id": "153cd9c19",
   "applovin_key": "pfQ9Mii5S5mDwCSzXqcqqs4bccbm51i9Ig71Alol8f4c71yd6DSAqJ_1eBXsFIGaA5Wav0yCTLIyvx0RUQOgnd",
-  "ad_splash": "[{\"network\":\"yandex\",\"id\":\"R-M-10496294-2\"},{\"network\":\"ironsource\",\"id\":\"DefaultInterstitial\"}]",
+  "ad_splash": "[{\"network\":\"ironsource\",\"id\":\"DefaultInterstitial\"},{\"network\":\"yandex\",\"id\":\"R-M-10496294-2\"}]",
   "ad_config_start_app": "[{\"network\":\"ironsource\",\"id\":\"DefaultInterstitial\"},{\"network\":\"yandex\",\"id\":\"R-M-10496294-2\"}]",
   "ad_config_end_app": "[{\"network\":\"ironsource\",\"id\":\"DefaultInterstitial\"},{\"network\":\"yandex\",\"id\":\"R-M-10496294-2\"}]",
   "ad_config_start_play": "[{\"network\":\"ironsource\",\"id\":\"DefaultInterstitial\"},{\"network\":\"yandex\",\"id\":\"R-M-10496294-2\"}]",
