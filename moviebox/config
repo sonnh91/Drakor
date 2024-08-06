@@ -28,7 +28,7 @@
   "coin_rewarded": 100,
   "source_anime": "LAYARINDO21",
   "main_ui": "THEMOVIEDB",
-  "source_anime_2": "eyJ0YWJzIjpbeyJ0aXRsZSI6IkRpc2NvdmVyIiwic291cmNlIjoiVFJBSyIsInR5cGUiOiJ0cmVuZGluZyJ9LHsidGl0bGUiOiJUcmVuZGluZyIsInNvdXJjZSI6IlRSQUsiLCJ0eXBlIjoibW92aWUifSx7InRpdGxlIjoiU2VyaWVzIiwic291cmNlIjoiVFJBSyIsInR5cGUiOiJzZXJpZXMifV19",
+  "source_anime_2": "eyJ0YWJzIjpbeyJ0aXRsZSI6IkRpc2NvdmVyIiwic291cmNlIjoiVFJBS1QiLCJ0eXBlIjoidHJlbmRpbmcifSx7InRpdGxlIjoiVHJlbmRpbmciLCJzb3VyY2UiOiJUUkFLVCIsInR5cGUiOiJtb3ZpZSJ9LHsidGl0bGUiOiJTZXJpZXMiLCJzb3VyY2UiOiJUUkFLVCIsInR5cGUiOiJzZXJpZXMifV19",
   "unity_app_id": "3934999",
   "ironsource_id": "1ed30d2a5",
   "ad_splash":"[{\"network\":\"ironsource\",\"id\":\"DefaultInterstitial\"}]",
