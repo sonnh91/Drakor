@@ -55,6 +55,7 @@
   "tmdb_api_key": "c4ab71fe26b1145f5681f2996beb4f61",
   "billing_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA4CVUFdafvktaB1bur39iAb7HtPe+eGClcuijrtF250T93NEmmQwYmc7Anva23fjDh/XbkOM/46UUhw3m17SraIxt4STE7Qm74z8PkWX1fAEfFw+b3Dh4FU5SfyVtZvDfc057mYfMyyq+8DJi8iv/sc5AmXPjaB9/Kr/pVDcOgGtNzbhWf4iDw6M1kTvSWVMfKPyQYXFb0jfQQnGDE0F6zcCuwcj8z3d+LuhBwx+GPYQYrw768gzWb2ePNEMr8QIgoEr1mMwMrqZLWeHDOLHmVYiYNdq6POob6SBve0WO0z8hQXhu/tbnEjq1GMsKG/e6Y/Rf9nQHniotJ2XvwFrc8QIDAQAB",
   "sources_search": "THEMOVIEDB",
+"source_anime_2": "eyJjYXQiOiJUSEVNT1ZJRURCIiwiZGVmYXVsdF90YWIiOjIsInRhYnMiOlt7InRpdGxlIjoiVHJlbmRpbmciLCJzb3VyY2UiOiJBRkRBSCIsInR5cGUiOiJ0cmVuZGluZyJ9LHsidGl0bGUiOiJQb3B1bGFyIiwic291cmNlIjoiQUZEQUgiLCJ0eXBlIjoibW92aWUifSx7InRpdGxlIjoiU2VyaWVzIiwic291cmNlIjoiVEhFTU9WSUVEQiIsInR5cGUiOiJzZXJpZXMifV19",
   "source_search_default": 0,
   "exclude_sources": "PELISPLAY,PELISHOUSE",
   "sp_ct": "VN,MX,CO,ES,AR,PE,VE,CL,EC,GT,CU,BO,DO,HN,PY,SV,NI,CR,PA,UY,GQ",
