@@ -16,7 +16,7 @@
   },
   {
     "packageName": "mobile.acb.com.vn",
-    "regexTitle": "so du",
+    "regexTitle": "so du|new transfer",
     "regexText": "[\+-]\s?\d{0,3}(,\d{3})+"
   }
 ]
