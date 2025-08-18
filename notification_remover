@@ -8,5 +8,10 @@
     "packageName": "com.ncb.bank",
     "regexTitle": ".",
     "regexText": "Tài khoản.+(\n.+)*Số dư"
+  },
+  {
+    "packageName": "xyz.be.cake",
+    "regexTitle": ".",
+    "regexText": "tài khoản.+(\n.+)*Số dư"
   }
 ]
