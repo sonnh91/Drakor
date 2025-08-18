@@ -6,12 +6,17 @@
   },
   {
     "packageName": "com.ncb.bank",
-    "regexTitle": ".",
+    "regexTitle": "chuyển khoản",
     "regexText": "Tài khoản.+(\n.+)*Số dư"
   },
   {
     "packageName": "xyz.be.cake",
-    "regexTitle": ".",
+    "regexTitle": "số dư|Giao dịch",
     "regexText": "tài khoản.+(\n.+)*Số dư"
+  },
+  {
+    "packageName": "mobile.acb.com.vn",
+    "regexTitle": "so du",
+    "regexText": "[\+-]\s?\d{0,3}(,\d{3})+"
   }
 ]
