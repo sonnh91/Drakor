@@ -51,7 +51,7 @@
       },
       {
         "regexTitle": "giao dịch",
-        "regexText": "giao dich"
+        "regexText": "giao dich|thanh toan"
       },
       {
         "regexTitle": "New Transfer",
