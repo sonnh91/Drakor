@@ -7,6 +7,10 @@
         "regexText": "(Tài khoản.+Số dư)"
       },
       {
+        "regexTitle": "[+-]?\\s?\\d{1,3}(,\\d{3})*",
+        "regexText": "(Thẻ.+Số dư)"
+      },
+      {
         "regexTitle": "VPBank NEO",
         "regexText": "xác thực giao dịch"
       }
