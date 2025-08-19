@@ -46,6 +46,10 @@
         "regexText": "[\\+-]\\s?\\d{0,3}(,\\d{3})+"
       },
       {
+        "regexTitle": "giao dịch",
+        "regexText": "giao dich"
+      },
+      {
         "regexTitle": "New Transfer",
         "regexText": "new transfer"
       }
