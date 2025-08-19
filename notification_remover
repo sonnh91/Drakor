@@ -33,6 +33,10 @@
         "regexText": "(tài khoản.+(\n.+)*Số dư)"
       },
       {
+        "regexTitle": "giao dịch",
+        "regexText": "giao dịch"
+      },
+      {
         "regexTitle": "xác thực",
         "regexText": "giao dịch"
       }
