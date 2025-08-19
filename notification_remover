@@ -17,7 +17,7 @@
     "rules": [
       {
         "regexTitle": "chuyển khoản",
-        "regexText": "Tài khoản.+Số dư"
+        "regexText": "Tài khoản.+(\n.+)*Số dư"
       }
     ]
   },
@@ -26,7 +26,7 @@
     "rules": [
       {
         "regexTitle": "số dư",
-        "regexText": "(tài khoản.+Số dư)"
+        "regexText": "(tài khoản.+(\n.+)*Số dư)"
       },
       {
         "regexTitle": "xác thực",
