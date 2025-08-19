@@ -38,7 +38,7 @@
     "packageName": "mobile.acb.com.vn",
     "rules": [
       {
-        "regexTitle": "so du|new transfer",
+        "regexTitle": "so du",
         "regexText": "[\\+-]\\s?\\d{0,3}(,\\d{3})+"
       },
       {
