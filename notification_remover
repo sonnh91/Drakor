@@ -58,7 +58,7 @@
         "regexText": "[\\+-]\\s?\\d{0,3}(,\\d{3})+"
       },
       {
-        "regexTitle": "giao dịch",
+        "regexTitle": "giao dịch|tiet kiem|tai khoan",
         "regexText": "giao dich|thanh toan|so du"
       },
       {
