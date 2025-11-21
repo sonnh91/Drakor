@@ -1,9 +1,9 @@
 {
   "current_version": 999,
-  "force_update": true,
+  "force_update": false,
   "min_version_support": 1,
   "notify_new_version": true,
-  "check_release_version": true,
+  "check_release_version": false,
   "message_notify_update": "Necesita actualizar a la última versión para reproducir todas las películas",
   "package_name": "xyz.sp.pelisbase",
   "mediation_bidding": "max",
