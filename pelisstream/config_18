@@ -1,6 +1,6 @@
 {
   "current_version": 999,
-  "force_update": false,
+  "force_update": true,
   "min_version_support": 1,
   "notify_new_version": false,
   "check_release_version": true,
