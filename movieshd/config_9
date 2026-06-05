@@ -57,7 +57,7 @@
   "tmdb_api_key": "c4ab71fe26b1145f5681f2996beb4f61",
   "trakt_client_secret": "0e626490a8d9cc7bae17956f0c00182f4cc8ec104a3b3c5765f632331f12a2f6",
   "trakt_client_id": "a491bcb5de8584d8c577ff6aef03daf005a738ce075e9a4f58cbc39ed7c95aa6",
-  "trakt_redirect_uri": "movieshd://callback",
+  "trakt_redirect_uri": "movies123://callback",
   "onesignal_app_id": "26dd1627-1ae5-43b9-b531-5e1fbed3fb87",
   "billing_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAub5F0J1g6PcJJoeShQ71xBPwboyV0B0cB7KtFWCuuYDMM5al0crQZdqLdzAwHdNt9OWXQE+xCEXmoJP8mpjVJT9lfnnc9wtysaUSnJqMCAEjPas1Vj7NvOCf0nQd32/VWo93yu3JRuhuf+RTFTOdhE3tDzmzYtvIcyQhEiTHR9gGEp3okaBLZHuLKk5fSJyA+M7Dv4ZV0cLJUzQcG0FvhlnoDGe4BAD3lKN6V6qliMXQAg9yhUTOxVacyVxracbj5pKmOsX612BTzQHbGXbU16ODuiV4cIzSBE/DNRmeIvOY+xlCL0kjcTuGFh5La/9soZSEWe8UjWR7e5yg8J+/xQIDAQAB",
   "exclude_sources": "",
